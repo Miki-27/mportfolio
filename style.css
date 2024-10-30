@@ -1,0 +1,174 @@
+@charset "utf-8";
+
+html{
+  mrgin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+html[Attributes style]{
+  -webkit-locale: "ja";
+}
+:root{
+  view-transition-name: root;
+}
+html{
+  display: block;
+}
+
+head{
+  display: none;
+}
+
+meta{
+  display: none;
+}
+
+title{
+  display: none;
+}
+
+link{
+  display: none;
+}
+
+head {
+  display: none;
+}
+
+body {
+  margin: 0;
+  background-color: #FFD887;
+  color: #973030;
+}
+body {
+  display: block;
+}
+
+.nav {
+  height: 65px;
+  width: 100%;
+  position: fixed;
+  background-color: rgba(128, 108, 68, 0.678);
+  z-index: 30;
+}
+user agent stylesheet
+div {
+  display: block;
+  unicode-bidi: isolate;
+}
+
+body {
+  margin: 0;
+  background-color: #f3a2e256;
+  color: #774b09b7;
+}
+
+.nav nav{
+  height: 100%;
+  padding: 20px 0;
+    padding-top: 20px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+  text-align: left;
+  display: block;
+}
+
+nav{
+  unicode-bidi: isolate;
+}
+
+body {
+  margin: 0;
+  background-color: #f3a2e256;
+  color: #774b09b7;
+}
+
+
+nav a {
+  text-decoration: none;
+  padding: 20px 20px;
+  font-size: 25px;
+  color: #F2F2F2;
+  font-family: 'Amatic SC', cursive;
+}
+user agent stylesheet
+a:-webkit-any-link {
+  cursor: pointer;
+}
+
+.nav nav {
+  height: 100%;
+  padding: 20px 0;
+  text-align: left;
+  display: block;
+}
+
+body {
+  margin: 0;
+  background-color: #f3a2e256;
+}
+
+
+.backimg img {
+  margin-top: 65px;
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  position: relative;
+  z-index: 10;
+}
+
+
+img {
+  overflow-clip-margin: content-box;
+  overflow: clip;
+}
+
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  unicode-bidi: isolate;
+}
+
+
+.profile {
+  margin-bottom: 100px;
+}
+
+
+section {
+  display: block;
+  unicode-bidi: isolate;
+}
+
+
+.profile h1, .works h1, .hobby h1, .contact h1 {
+  text-align: center;
+  font-size: 40px;
+  text-decoration: underline;
+  font-family: 'Corben', cursive;
+}
+
+
+:-webkit-any(article, aside, nav, section) h1 {
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+}
+
+
+
+
+h1 {
+  display: block;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+  unicode-bidi: isolate;
+}
