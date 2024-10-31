@@ -17,7 +17,7 @@ html{
   display: block;
 }
 
-h1:first-letter {
+.backimg p:first-letter {
   font-size: 2em;
   color: #7172ac;
 }
@@ -35,10 +35,6 @@ title{
 }
 
 link{
-  display: none;
-}
-
-head {
   display: none;
 }
 
