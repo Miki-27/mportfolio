@@ -17,6 +17,11 @@ html{
   display: block;
 }
 
+h1:first-letter {
+  font-size: 2em;
+  color: #7172ac;
+}
+
 head{
   display: none;
 }
