@@ -7,7 +7,7 @@ html{
     margin-bottom: 0px;
     margin-left: 0px;
 }
-html[Attributes style]{
+html{
   -webkit-locale: "ja";
 }
 :root{
