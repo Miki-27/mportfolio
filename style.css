@@ -150,7 +150,7 @@ section {
 }
 
 
-.profile h1, .career h1, .works h1, .contact h1 .language h1{
+.profile h1, .career h1, .works h1, .inputform h1 .language h1{
   text-align: center;
   font-size: 40px;
   text-decoration: underline;
